@@ -29,4 +29,7 @@
 
 ## 5)이미지
 -이미지는 직접 그려 사용하였다.
-![산타]()
+
+![산타](ShootingGame/bin/images/PaPaPlaye.png)
+![산타공격](ShootingGame/bin/images/PaPaPlaye.png)
+
