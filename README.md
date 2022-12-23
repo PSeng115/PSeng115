@@ -30,7 +30,7 @@
 ## 5)이미지
 -이미지는 직접 그려 사용하였다.
 
-!(ShootingGame/bin/images/PaPaPlaye.png)   
+![산타](ShootingGame/bin/images/PaPaPlaye.png)   
 ![산타공격](ShootingGame/bin/images/PaPaPlayeAttack.png)   
 ![코로나](ShootingGame/bin/images/Covid.png)    
 ![코로나 공격](ShootingGame/bin/images/CovidA.png)   
