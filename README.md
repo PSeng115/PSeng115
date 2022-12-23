@@ -58,6 +58,22 @@
 ![패배 엔딩](ShootingGame/bin/images/Over.png)     
 
 
+## 6)참조자료
+
+-BGM: 유투브 무료 음악 사이드   
+>(Christmas-Rap) CarolOftheBells   
+>(Jingle_Bells_7) carolOftheBells    
+
+Music by: https://audionauix.com   
+Licensed under Creative Commons: By Attrbution 3.0   
+creativecommons.org/licenses/by/3.0/   
+
+-오픈 소스   
+> https:///www.youtube.com/watch?v=HJtS3VcChPY$!=331s
+
+
+
+
 
 
 
